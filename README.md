@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3894-traffic-signal-color](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/3894-traffic-signal-color) |
+## Array
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/0303-range-sum-query-immutable) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
