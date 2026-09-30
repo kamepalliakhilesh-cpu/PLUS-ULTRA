@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3894-traffic-signal-color](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/3894-traffic-signal-color) |
 ## String
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/0303-range-sum-query-immutable) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Design
 |  |
 | ------- |
