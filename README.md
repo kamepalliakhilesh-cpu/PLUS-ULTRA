@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/0020-valid-parentheses) |
 | [3894-traffic-signal-color](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/0303-range-sum-query-immutable) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
