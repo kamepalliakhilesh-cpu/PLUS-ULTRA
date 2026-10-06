@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/0303-range-sum-query-immutable) |
+| [1480-running-sum-of-1d-array](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/1512-number-of-good-pairs) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Design
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/0303-range-sum-query-immutable) |
+| [1480-running-sum-of-1d-array](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/1480-running-sum-of-1d-array) |
 ## Stack
 |  |
 | ------- |
