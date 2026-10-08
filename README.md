@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/1389-create-target-array-in-the-given-order) |
 | [3894-traffic-signal-color](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/3894-traffic-signal-color) |
 ## Array
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/0303-range-sum-query-immutable) |
+| [1389-create-target-array-in-the-given-order](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1480-running-sum-of-1d-array](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/1512-number-of-good-pairs) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
