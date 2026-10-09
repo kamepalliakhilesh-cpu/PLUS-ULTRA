@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/0020-valid-parentheses) |
+| [1108-defanging-an-ip-address](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/1108-defanging-an-ip-address) |
 | [3894-traffic-signal-color](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
