@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/0303-range-sum-query-immutable) |
+| [1051-height-checker](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/1051-height-checker) |
 | [1389-create-target-array-in-the-given-order](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1480-running-sum-of-1d-array](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/1512-number-of-good-pairs) |
@@ -51,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/1512-number-of-good-pairs) |
+## Sorting
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/1051-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
