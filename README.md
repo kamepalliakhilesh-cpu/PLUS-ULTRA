@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1480-running-sum-of-1d-array](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/1512-number-of-good-pairs) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Design
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/1512-number-of-good-pairs) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Counting
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/1051-height-checker) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Counting Sort
 |  |
 | ------- |
