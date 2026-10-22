@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/1051-height-checker) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting Sort
 |  |
 | ------- |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/2778-sum-of-squares-of-special-elements) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
