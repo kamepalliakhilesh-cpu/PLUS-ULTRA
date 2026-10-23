@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Design
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/kamepalliakhilesh-cpu/PLUS-ULTRA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Enumeration
 |  |
 | ------- |
